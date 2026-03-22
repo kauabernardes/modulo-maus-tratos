@@ -133,6 +133,7 @@ header h1 { font-size: 1.8rem; line-height: 1.2; margin-bottom: 0.5rem; hyphens:
 .btn-primary { background: var(--primary-blue); color: #fff; width: 100%; }
 .btn-white { background: #fff; color: #000; border: 1px solid #d1d5db; width: 100%; }
 .btn-outline { border: 1px solid var(--primary-blue); color: var(--primary-blue); background: transparent; width: 100%; }
+.btn-outline-light { border: 1px solid white; color: white; background: transparent; width: 100%; }
 .btn-auto { width: auto; }
 .btn-padded { padding-inline: 4rem; }
 .btn-back { display: inline-flex; align-items: center; gap: 6px; text-decoration: none; color: var(--text-muted); }
